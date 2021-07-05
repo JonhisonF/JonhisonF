@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonhison</h1>
 <h3 align="center">🚀 A developer always looking for new knowledge.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonhisonf&label=Profile%20views&color=0e75b6&style=flat" alt="jonhisonf" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonhisonf&label=Profile%20views&color=0e75b6&style=flat" alt="jonhisonf" /> </p> -->
 
 * 🌱 I’m currently learning 
   * [Curso de Javascript e Typescript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
