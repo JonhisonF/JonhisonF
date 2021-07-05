@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonhison</h1>
-<h3 align="center">A developer always looking for new knowledge</h3>
+<h3 align="center">🚀 A developer always looking for new knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonhisonf&label=Profile%20views&color=0e75b6&style=flat" alt="jonhisonf" /> </p>
 
-- 🌱 I’m currently learning 
-  - [Curso de Javascript e Typescript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
-  - [Mobile baseado em Javascript](https://www.alura.com.br/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlI3pCFu6a5xWRKK-FlH0v00CvY9idt1v6j1zCUMG8-NyuGAmauUi-gaAuuGEALw_wcB)
+* 🌱 I’m currently learning 
+  * [Curso de Javascript e Typescript](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+  * [Mobile baseado em Javascript](https://www.alura.com.br/?gclid=Cj0KCQjw24qHBhCnARIsAPbdtlI3pCFu6a5xWRKK-FlH0v00CvY9idt1v6j1zCUMG8-NyuGAmauUi-gaAuuGEALw_wcB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
