@@ -14,7 +14,7 @@
 ## 🛠 Skills
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 ![Styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white)
@@ -26,12 +26,15 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Sequelize](https://img.shields.io/badge/Sequelize-0081CB?style=for-the-badge&logo=sequelize&logoColor=white)
+[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/pt-br/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-0081CB?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/master/)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+[![Eslint](https://img.shields.io/badge/eslint-fbfbfb?style=for-the-badge&logo=eslint&logoColor=4B32C3)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/prettier-1a2b34?style=for-the-badge&logo=prettier&logoColor=f8bc45)](https://prettier.io/)
+
 ![figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=white)
-![figma](https://img.shields.io/badge/git-F7FAFC?style=for-the-badge&logo=git&logoColor=E34F26)
+![git](https://img.shields.io/badge/git-F7FAFC?style=for-the-badge&logo=git&logoColor=E34F26)
