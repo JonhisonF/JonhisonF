@@ -1,5 +1,7 @@
 # | Hi, I'm Jonhison 👋 |
 
+![image](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+
 ## About Me 🚀
 
 **I'm a front-end and back-end developer. Passionate about programming.**
