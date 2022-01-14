@@ -1,6 +1,4 @@
-# | Hi, I'm Jonhison 👋 |
-
-![image](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+# | Hi, I'm Jonhison <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100">
 
 ## About Me 🚀
 
