@@ -1,18 +1,10 @@
-# | Hi, I'm Jonhison <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100">
+# Jonhison
 
-## About Me 🚀
+### Software Developer
 
-### I'm a front-end and back-end developer. Passionate about programming. At the moment I'm more focused on the backend for work reasons, but I really like the frontend.
+[![linkedin](https://img.shields.io/badge/LinkedIn-2c2fe6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonhison-f/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2c2fe6?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jonhisonfilho47?hrr=1)
 
-![stats](https://github-readme-stats.vercel.app/api?username=JonhisonF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonhisonF&layout=compact&langs_count=10&theme=tokyonight)
+Full-stack software developer with extensive experience in current technologies, always seeking new challenges. 
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonhison-f-94a5011a8/)
-  
-## 🛠 Skills
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+My approach is focused on delivering quality, autonomy in problem-solving, and a constant pursuit of technical and personal improvement. With a critical and analytical mindset, I am always eager to learn and take on new challenges, aiming for increasingly efficient and robust solutions in the projects I participate in.
