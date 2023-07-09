@@ -2,8 +2,8 @@
 
 ### Software Developer
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-2c2fe6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonhison-f/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2c2fe6?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jonhisonfilho47?hrr=1)
+[![linkedin](https://img.shields.io/badge/JonhisonF-2c2fe6?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonhison-f/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2c2fe6?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jonhisonfilho47?hrr=1)
 
 Full-stack software developer with extensive experience in current technologies, always seeking new challenges. 
 
